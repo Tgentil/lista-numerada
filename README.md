@@ -17,7 +17,7 @@ Este projeto consiste em dois scripts Python principais:
    ```bash
    +--./
    |-- formating.py
-   |-- README
+   |-- README.md
    |  +--data/
    |   |-- random_names.txt
    |  +--test/
@@ -26,7 +26,7 @@ Este projeto consiste em dois scripts Python principais:
 
 - Raiz do Repositório
     - `formating.py`
-    - README.md
+    - `README.md`
     - Pasta `data`: Contém os arquivos `.txt` de entrada para o script `formating.py`.
     - Pasta `test`
         - `generate_list.py`
